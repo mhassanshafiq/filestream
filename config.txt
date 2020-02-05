@@ -1,0 +1,9 @@
+server_port 5050
+server_host 127.0.0.1
+server_file_dir D://Work//FileStream//FileStream//outfile
+file_to_transfer testfile.jpg
+client_file_dir D://Work//FileStream//FileStream//loadrun
+connection_retry 3
+transmission_retry 5
+retry_interval 5
+wait_for_ack 1
